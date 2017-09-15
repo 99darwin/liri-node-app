@@ -1,0 +1,35 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "language based siri-like application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/99darwin/liri-node-app.git"
+  },
+  "keywords": [
+    "siri",
+    "language",
+    "interpretation",
+    "api"
+  ],
+  "author": "99darwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/99darwin/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/99darwin/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.81.0",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
+    "spotify-web-api-node": "^2.5.0",
+    "twit": "^2.2.9",
+    "twitter": "^1.7.1"
+  }
+}
