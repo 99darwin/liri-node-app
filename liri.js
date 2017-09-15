@@ -49,9 +49,8 @@ if (listen === 'my-tweets') {
 // if user input is movie-this... 
 } else if (listen === 'movie-this') {
     // run movieThis()
-    movieThis();
-// if user input is spotify-this-song...    
-} 
+    movieThis();   
+};  
 
 
 
